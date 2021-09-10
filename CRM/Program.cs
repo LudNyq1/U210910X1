@@ -68,7 +68,7 @@ namespace CRM
                 if (val != "1" && val != "2" && val != "1" && val != "3" && val != "4")
                 {
                     Console.WriteLine("======================================");
-                    Console.WriteLine("=/tFELAKTIG INMATNING                =");
+                    Console.WriteLine("=\tFELAKTIG INMATNING           =");
                     Console.WriteLine("======================================");
                     Console.ReadLine();
                 }
