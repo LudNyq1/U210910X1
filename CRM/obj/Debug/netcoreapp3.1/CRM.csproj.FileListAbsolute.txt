@@ -1,0 +1,14 @@
+C:\Csharp\U210910X1\CRM\bin\Debug\netcoreapp3.1\CRM.exe
+C:\Csharp\U210910X1\CRM\bin\Debug\netcoreapp3.1\CRM.deps.json
+C:\Csharp\U210910X1\CRM\bin\Debug\netcoreapp3.1\CRM.runtimeconfig.json
+C:\Csharp\U210910X1\CRM\bin\Debug\netcoreapp3.1\CRM.runtimeconfig.dev.json
+C:\Csharp\U210910X1\CRM\bin\Debug\netcoreapp3.1\CRM.dll
+C:\Csharp\U210910X1\CRM\bin\Debug\netcoreapp3.1\CRM.pdb
+C:\Csharp\U210910X1\CRM\obj\Debug\netcoreapp3.1\CRM.csproj.AssemblyReference.cache
+C:\Csharp\U210910X1\CRM\obj\Debug\netcoreapp3.1\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\U210910X1\CRM\obj\Debug\netcoreapp3.1\CRM.AssemblyInfoInputs.cache
+C:\Csharp\U210910X1\CRM\obj\Debug\netcoreapp3.1\CRM.AssemblyInfo.cs
+C:\Csharp\U210910X1\CRM\obj\Debug\netcoreapp3.1\CRM.csproj.CoreCompileInputs.cache
+C:\Csharp\U210910X1\CRM\obj\Debug\netcoreapp3.1\CRM.dll
+C:\Csharp\U210910X1\CRM\obj\Debug\netcoreapp3.1\CRM.pdb
+C:\Csharp\U210910X1\CRM\obj\Debug\netcoreapp3.1\CRM.genruntimeconfig.cache
